@@ -1,3 +1,4 @@
 x = 1
 y = 2
-print(sum(x,y))
+def sss(a, b):
+    return a * b
